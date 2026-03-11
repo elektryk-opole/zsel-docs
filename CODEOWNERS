@@ -1,11 +1,11 @@
 # zsel-docs CODEOWNERS
 
-docs/                     @docs-team
-docs/architecture/        @platform-team @architecture-leads
-docs/security/            @security-team
-docs/api/                 @api-team
-docs/operations/          @operations-team
-docs/troubleshooting/     @support-team
+docs/                     @docs-team @lkolo-prez
+docs/architecture/        @platform-team @architecture-leads @lkolo-prez
+docs/security/            @security-team @lkolo-prez
+docs/api/                 @api-team @lkolo-prez
+docs/operations/          @operations-team @lkolo-prez
+docs/troubleshooting/     @support-team @lkolo-prez
 
-README.md                 @docs-team
-CONTRIBUTING.md           @docs-team
+README.md                 @docs-team @lkolo-prez
+CONTRIBUTING.md           @docs-team @lkolo-prez
