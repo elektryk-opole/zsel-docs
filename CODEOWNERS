@@ -1,0 +1,11 @@
+# zsel-docs CODEOWNERS
+
+docs/                     @docs-team
+docs/architecture/        @platform-team @architecture-leads
+docs/security/            @security-team
+docs/api/                 @api-team
+docs/operations/          @operations-team
+docs/troubleshooting/     @support-team
+
+README.md                 @docs-team
+CONTRIBUTING.md           @docs-team

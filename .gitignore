@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Temporary
+*.tmp
+.cache/
